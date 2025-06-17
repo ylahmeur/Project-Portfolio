@@ -19,7 +19,7 @@ I'm a recent Computer Science and Economics graduate, passionate about the realm
 ---
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/yamin-lahmeur/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/yamin-lahmeur)
 
 ---
 
