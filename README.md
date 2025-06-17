@@ -2,9 +2,9 @@
 # Hi 👋 I'm Yamin Lahmeur
 
 ## 🔥 About Me:
-I'm a recent Computer Science and Economics graduate passionate about the intersection of machine learning, finance, product thinking, and startups.
+I'm a recent Computer Science and Economics graduate, passionate about the realms of machine learning, finance, product thinking, and startups.
 
-- 💼 Exploring the world of **AI, forecasting models**, and CRM automation  
+- 💼 Exploring the world of **A I, forecasting models**, and CRM automation  
 - 🧠 Building fun projects like [Highway Chimes](#) and [Economic State Forecaster](#)  
 - 🎯 Currently seeking opportunities in **product, data, or startup roles**
 
